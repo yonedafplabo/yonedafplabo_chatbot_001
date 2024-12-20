@@ -1,4 +1,9 @@
 
+from memory_profiler import profile
+
+@profile
+def your_dashboard_function():
+
 import streamlit as st
 import openai
 
