@@ -1,2 +1,2 @@
 streamlit==1.40.0
-openai== 2024-10-01-preview
+openai==turbo-2024-04-09
